@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Kappexx/Cars_ThreeJs.git/static/js/main.9a265797.js",
-    "index.html": "/Kappexx/Cars_ThreeJs.git/index.html",
-    "main.9a265797.js.map": "/Kappexx/Cars_ThreeJs.git/static/js/main.9a265797.js.map"
+    "main.js": "/Cars_ThreeJs/static/js/main.82bf66aa.js",
+    "index.html": "/Cars_ThreeJs/index.html",
+    "main.82bf66aa.js.map": "/Cars_ThreeJs/static/js/main.82bf66aa.js.map"
   },
   "entrypoints": [
-    "static/js/main.9a265797.js"
+    "static/js/main.82bf66aa.js"
   ]
 }
